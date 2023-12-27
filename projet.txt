@@ -1,0 +1,24 @@
+project-root/
+|-- config/
+|   |-- config.json
+|-- controllers/
+|   |-- userController.js
+|   |-- entity1Controller.js
+|   |-- entity2Controller.js
+|   |-- entity3Controller.js
+|-- middleware/
+|   |-- authenticationMiddleware.js
+|-- models/
+|   |-- index.js
+|   |-- user.js
+|   |-- entity1.js
+|   |-- entity2.js
+|   |-- entity3.js
+|-- routes/
+|   |-- index.js
+|   |-- userRoutes.js
+|   |-- entity1Routes.js
+|   |-- entity2Routes.js
+|   |-- entity3Routes.js
+|-- app.js
+|-- package.json
